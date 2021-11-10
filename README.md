@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @phiskits
-- 👀 I’m interested in building applications in C#
--  📫 Contact Methods:
+Contact Methods:
 - discord (preferred):  phiskits#3658
 - email:                phiskits@gmail.com
 

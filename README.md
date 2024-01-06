@@ -2,7 +2,7 @@ Creating applications and libraries for Windows in C#.
 
 Continously updating my CSharp- and WinForm libraries (once they are on Github)
 
-Making tools for file- and memory-manipulation of all kind, mostly used in modding
+Making tools for file- and memory-manipulation of all kind, mostly used in modding. Also doing websites and phone apps, games, all that jazz
 
 Contact Methods:
 - discord (preferred):  phiskits#3658
